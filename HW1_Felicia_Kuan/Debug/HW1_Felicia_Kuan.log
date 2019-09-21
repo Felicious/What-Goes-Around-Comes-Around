@@ -1,0 +1,12 @@
+﻿  main-sample (1).cpp
+c:\users\freak\downloads\main-sample (1).cpp(79): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\freak\downloads\main-sample (1).cpp(176): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\freak\downloads\main-sample (1).cpp(177): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\freak\downloads\main-sample (1).cpp(178): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\freak\downloads\main-sample (1).cpp(356): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\freak\downloads\main-sample (1).cpp(356): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\freak\downloads\main-sample (1).cpp(488): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\freak\downloads\main-sample (1).cpp(489): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\freak\downloads\main-sample (1).cpp(364): warning C4101: 't': unreferenced local variable
+c:\users\freak\downloads\main-sample (1).cpp(531): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  HW1_Felicia_Kuan.vcxproj -> C:\Users\freak\source\repos\HW1_Felicia_KUan\Debug\HW1_Felicia_Kuan.exe
